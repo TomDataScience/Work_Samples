@@ -1,1 +1,5 @@
-
+PCS_Certification_Import
+  This script takes data provided by the State Board of Education and formats the data so it can be imported into PeopleSoft. 
+    This script was created out of a need to reduce the amount of time to process this data. Prior to the scrit this process the formatting was done manually and took up to 20 minutes to complete.
+PCS_Salary
+  This script was created to improve efficent and save time by automatically recreating a needed report for the Certification Specialist to audit Employee Salaries and compare the data to the Department of Education. Prior to the script the process of creating this report took atleast 20 minutes and required multiple excel files and an acess database. 
