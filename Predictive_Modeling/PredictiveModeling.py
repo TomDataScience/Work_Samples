@@ -1,6 +1,5 @@
 ##Employee Termination Analysis
 ## By: Tom Rice
-## IST 679 - Big Data Analytics
 
 ##Libraries to start with
 ################################
